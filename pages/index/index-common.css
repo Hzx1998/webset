@@ -1,0 +1,23 @@
+html{
+    font-size: 62.5%；
+}
+.container-fluid{
+    width: 100%;
+    height: auto;
+    margin: 0;
+
+}
+.header{
+    background-color: #323a40;
+    color: white;
+}
+.variety{
+    background-color: #eef3f7;
+    padding: 50px;
+}
+.content{
+    background-color: #eef3f7;
+}
+.footer{
+    background-color:#323a40; 
+}
